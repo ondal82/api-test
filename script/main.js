@@ -2,7 +2,7 @@
 
 // `https://www.aladin.co.kr/ttb/api/ItemSearch.aspx?ttbkey=ttblusci2359001&Query=aladdin&QueryType=Title&MaxResults=10&start=1&SearchTarget=Book&output=js&Version=20131101`
 
-const urlAPI = "https://corsproxy.io/?http://www.aladin.co.kr/ttb/api/ItemSearch.aspx";
+const urlAPI = "corsproxy.io/?http://www.aladin.co.kr/ttb/api/ItemSearch.aspx";
 
 const ttbKey = `ttblusci2359001`;
 
